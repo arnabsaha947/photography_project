@@ -1,0 +1,25 @@
+.login-form
+{
+    padding-top: 5%;
+    padding-bottom: 5%;
+    margin-left: 60%;
+    border: 2px solid ghostwhite;
+    width: 40%;
+}
+div{
+    border: 2px solid ghostwhite  ;
+    width: 70%;
+    padding: 2%;
+    margin-left: 10%;
+}
+input{
+
+    width: 60%;
+    padding-top: 1%;
+    padding-bottom: 1%;
+    text-align: center;
+    color: blue;
+    font-style: italic;
+    font-size: 20px;
+    
+}
